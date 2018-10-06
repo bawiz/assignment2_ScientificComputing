@@ -1,6 +1,10 @@
 # assignment2_ScientificComputing
 Scientific programming course. Assignment 2 about multivariate statistics
 
+Copywright
+This project is part of Scientific programming assignment developed by authors below which is released under MIT license.
+© 2011 Dara Akdag All Rights Reserved
+
 # Authors list
 Dara Sevkan Akdag. 
 Maastricht university Systems Biology M.Sc. 
